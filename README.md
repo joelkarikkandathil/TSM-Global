@@ -3,10 +3,6 @@
 Automatic text summarization using Extractive method.
 Extraction-based Summarization: The extractive approach involves picking up the most important phrases and lines from the documents. It then combines all the important lines to create the summary. So, in this case, every line and word of the summary actually belongs to the original document which is summarized.
 
-## Demonstation
-
-https://user-images.githubusercontent.com/72291699/137526929-119c3533-9fb5-4a6e-a5db-187ff37c566b.mp4
-
 ## Tools and Technologies:
 
 - Python 3.8.12
@@ -31,17 +27,6 @@ Internet is becoming very widely and easily available these days. More and more 
 
 Most natural language processors(NLPs) seem to use heavy machine learning models to summarize a text document. We explore some better text summarization methods which are less memory intensive and can perform this simple task without using machine learning.
 
-## Input/Output Screenshot
-
-![image](https://user-images.githubusercontent.com/72291699/137526381-4bd6d915-9ed9-4470-b4f6-bc21c438500f.png)
-![image](https://user-images.githubusercontent.com/72291699/137526395-3447209a-31c2-4020-b524-01d5511dfe36.png)
-
-# Flow Chart of Methology 
-
-User will provide the url of any website whose summary and keywords are required as an output and after providing the url, summary and keywords will be displayed as above.
-
-![image](https://user-images.githubusercontent.com/72291699/137527953-6b672e34-6e19-4126-b66a-f61001e07275.png)
-
 
 # Project Goal
 
@@ -50,12 +35,10 @@ While investigating reports, outlines make the determination procedure simpler. 
 
 # Made By
 
-Ishan Manuja
+Sreehari
+Joel James
+Sourav K
 
-101803207
-
-COE-10
-
-Thapar Institute of Engineering and Technology, Patiala
+Jyothi Engineering College
 
 
